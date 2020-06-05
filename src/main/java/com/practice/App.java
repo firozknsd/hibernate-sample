@@ -5,7 +5,7 @@ import com.practice.model.Record;
 import com.practice.service.Operations;
 
 public class App {
-
+	// Yo boy
 	public static void main(String[] args) {
 		Operations operations = new Operations();
 		//operations.insert(new Record("Abu"));
